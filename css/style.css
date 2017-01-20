@@ -1,0 +1,76 @@
+.container {
+	background-color: #EEEEEE;
+	padding:10px;
+	color: grey;
+	max-width:950px;
+	margin:auto;
+}
+
+#register {
+	display:inline-block;
+	position:relative;
+	padding:10px;
+	vertical-align: top;
+}
+
+#register form input  {
+	padding: 15px;
+	border: 2px solid red;
+	min-width: 400px;
+}
+
+h2 {
+	color:#234465;
+	font-family: url('https://fonts.googleapis.com/css?family=Roboto');
+}
+span {
+	color:#234465;
+}
+
+#reg-btn {
+	float:right;
+	background-color:#EEEEEE;
+	color:#234465;
+	border: 2px solid #234465;
+	padding-right:20px;
+	padding-left: 20px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#login {
+	background-color: #234465;
+	display: inline-block;
+	position:relative;
+	color:white;
+	padding:10px;
+	padding-left:30px;
+	vertical-align: top;
+}
+
+#check-btn {
+	float:left;
+}
+
+#login-btn {
+	float:right;
+	background-color: #234465;
+	border:2px solid #FFA500;
+	padding-right:20px;
+	padding-left: 20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	color: white;
+}
+
+
+a {
+	font-size:0.65em;
+	color:white;
+	float:right;
+}
+
+#login form input  {
+	padding: 15px;
+	min-width: 400px;
+}
